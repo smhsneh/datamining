@@ -1,0 +1,12 @@
+# data files
+data/
+notebooks/eda_plots/
+
+# python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# vs code
+.vscode/
