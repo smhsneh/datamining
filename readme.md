@@ -64,7 +64,7 @@ the browser opens automatically at `http://localhost:8501`.
 ## project structure
 
 ```
-rmba/
+datamining/
 ├── app/
 │   └── streamlit_app.py       # streamlit dashboard
 ├── data/                      # place online_retail.csv here (git ignored)
