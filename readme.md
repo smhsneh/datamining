@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 rename the downloaded file to `online_retail.csv` and place it inside the `data/` folder before running anything.
 
-## setup & running (windows)
+## setup & running 
 
 open the project folder in vs code, then open a terminal (`ctrl + backtick`) and run each command below one at a time.
 
@@ -59,9 +59,7 @@ the browser opens automatically at `http://localhost:8501`.
 ## notes
 
 - make sure your terminal shows `(venv)` at the start before running any python command. if not, re-run step 2.
-- the `data/` folder is intentionally empty in the repo. you must add `online_retail.csv` yourself after cloning.
-- do not push the `data/` folder or generated files to github — they are excluded by `.gitignore`.
-- if preprocess.py feels stuck at "building basket matrix for: united kingdom" — it is not stuck, just wait it out.
+- the `data/` folder is intentionally empty in the repo. you must add `online_retail.csv` yourself after cloning..
 
 ## project structure
 
