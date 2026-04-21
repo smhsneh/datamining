@@ -51,7 +51,7 @@ wait for: `saved rules to data/association_rules.csv`. this takes 2-4 minutes.
 
 **step 7 — launch the dashboard**
 ```bash
-streamlit run app/streamlit_app.py
+streamlit run app/streamlitapp.py
 ```
 
 the browser opens automatically at `http://localhost:8501`.
